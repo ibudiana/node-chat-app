@@ -28,7 +28,7 @@ git clone https://github.com/ibudiana/node-chat-app.git
 ```
 
 ```bash
-cd chat-app
+cd node-chat-app
 ```
 
 ```bash
